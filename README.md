@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # day_care_app
 
 A new Flutter project.
@@ -15,3 +16,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Final-Project--demo-
+This is my first git repository 
+Author - Jyoshna kumari sethi 
+>>>>>>> 35046953c29b6038d4591c0bc6281b2364dcc6d2
